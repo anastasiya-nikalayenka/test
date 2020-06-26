@@ -52,7 +52,7 @@ public class Sleep
         }
         else
         {
-            System.out.println("Все в порядке. Продолжай спать дальше");
+            System.out.println("Все в порядке. Продолжай спать дальше!");
             return true;
         }
 
