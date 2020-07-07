@@ -3,7 +3,6 @@ package HomeWork2;
 public class Task1_5 {
     public static void main(String[] args) {
         long a = 1;
-        long value = 0;
         long[] arr = new long[100];
 
         for (; ; ) {
